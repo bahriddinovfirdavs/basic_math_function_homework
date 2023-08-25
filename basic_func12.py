@@ -4,3 +4,4 @@
 # Round the result to 2 decimal places.
 def main(a):
     return round(a)
+print(round(2.56657677,3))
